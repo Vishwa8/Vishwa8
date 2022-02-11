@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Vishwa
+<!---
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript and dart with flutter
+--->
 - 💞️ I’m looking forward to collaborate on open source projects
 - 📫 You can reach me via linkedin
 
