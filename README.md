@@ -1,5 +1,5 @@
 Hi there, I'm Vishwa 👋
-I'm a software engineer with 3 years of hands-on experience working with various technologies and frameworks. Passionate about clean code, problem-solving, and constantly adapting to new challenges, I thrive in dynamic environments and am always eager to learn and grow.
+I'm a software engineer with 2+ years of hands-on experience working with various technologies and frameworks. Passionate about clean code, problem-solving, and constantly adapting to new challenges, I thrive in dynamic environments and am always eager to learn and grow.
 
 🚀 About Me
 🌱 I’m continuously improving my skills with the latest technologies in the software development world.
